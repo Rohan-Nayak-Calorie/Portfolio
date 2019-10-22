@@ -1,0 +1,230 @@
+
+*,*::after,::before{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+html{
+    font-family: 'TT Commons', sans-serif;
+    font-weight: 100;
+    font-size: 62.75%; 
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+body{
+    position: relative;
+    margin: auto;
+    background-image: url(/assets/Web\ 1920\ full.svg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    padding: 0px;
+    font-size: 12rem;
+    font-weight: 500;
+    
+}
+
+h2{
+    padding: 0px;
+    font-size:7rem;
+    font-weight: 450;
+    
+}
+
+p{
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 3.5rem;
+    
+}
+
+li{
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 3.5rem;
+    text-decoration:none;
+    list-style: none;
+}
+
+button{
+    font-size: 3rem;
+    color: #037CFF;
+    line-height: 3rem;
+    background-color:transparent;
+}
+
+.header{
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color:transparent;
+}
+.conatct{
+    color:#037CFF ;
+    line-height: 4.9rem;
+    font-size: 2rem;
+    flex: 1;
+}
+
+.links
+{
+ display: flex;
+ flex-direction: row;
+ width: 195px;
+ height: 50px;
+ justify-content: space-between;
+ align-content: space-between;
+ flex: 1;
+ 
+ 
+}
+
+.section1{ 
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    padding: 0%;
+    margin: 0%;
+    justify-content: space-between;
+    
+
+    
+}
+.sectiontextpart{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-content: end;
+    align-content: center;
+    height: auto;
+    width: 50%;
+    padding-top: 8%;
+}
+
+.qualities{
+    color: grey;
+    padding-top: 3%;
+    padding-bottom: 6%;
+    
+}
+.button{
+    border: none;
+    background-color: transparent;
+}
+.subheading{
+    color:grey;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.sideimage{
+    width: 60%;
+    height: 750%;
+    
+    
+}
+.blueillus{
+    width: 100%;
+    height: 30%;
+    z-index: -100;
+    transform: translateY(-35%) scale(0.85);
+    position: absolute; 
+}
+
+.section2{
+    padding-top: 20%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    padding-bottom: 20%;  
+}
+
+.skills{
+    padding: 1%;
+}
+.skillspara{
+    padding: 1%;
+}
+.softwares{
+    padding: 1.2%;
+}
+
+.section3{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20%;
+    
+}
+
+.projectimage{
+    width: 75%;
+    height: 60rem;
+    z-index: -2;
+    border: 0.2px solid grey;
+
+    
+}
+
+.textpart{
+    display: flex;
+    flex-direction: column;
+    justify-items: left;
+    justify-content: center;
+}
+.footerlinks{
+    color: white;
+}
+.view-project{
+    text-decoration: underline;   
+    text-decoration-color: #037CFF;
+    color: black;
+    border: none;
+}
+
+
+.footer{
+
+    position: relative;
+    text-align: center;
+    transform: translateX(-25%);
+    
+}
+
+.footertext {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+
+.linketo{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+

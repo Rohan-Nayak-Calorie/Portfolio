@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1522.955" height="1304.343" viewBox="0 0 1522.955 1304.343">
+  <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(5)">
+    <g id="Component_2_1" data-name="Component 2 – 1" transform="translate(45.363)">
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="338" cy="307" rx="338" ry="307" transform="translate(0 697.902) rotate(-9)" fill="#037cff"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="1133" height="628" transform="matrix(0.788, -0.616, 0.616, 0.788, 193.14, 697.544)" fill="#037cff"/>
+    </g>
+    <line id="Line_2" data-name="Line 2" x2="348" transform="translate(160 652.42)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_6" data-name="Line 6" x2="363" y2="1" transform="translate(673 1117.42)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_3" data-name="Line 3" x2="348" transform="translate(37 673.42)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_7" data-name="Line 7" y1="2" x2="315" transform="translate(598 1139.42)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_4" data-name="Line 4" x2="348" transform="translate(0 630.42)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_5" data-name="Line 5" x2="231" transform="translate(645 1096.42)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+  </g>
+</svg>
